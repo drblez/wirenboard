@@ -1,43 +1,43 @@
-/devices/ab-log/meta/name ab-log.ru Controller
-/devices/ab-log/controls/192.168.1.60_Input_0/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_0/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_0/meta/order 0
-/devices/ab-log/controls/192.168.1.60_Input_1/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_1/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_1/meta/order 1
-/devices/ab-log/controls/192.168.1.60_Input_2/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_2/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_2/meta/order 2
-/devices/ab-log/controls/192.168.1.60_Input_3/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_3/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_3/meta/order 3
-/devices/ab-log/controls/192.168.1.60_Input_4/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_4/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_4/meta/order 4
-/devices/ab-log/controls/192.168.1.60_Input_5/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_5/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_5/meta/order 5
-/devices/ab-log/controls/192.168.1.60_Input_6/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Input_6/meta/readonly 1
-/devices/ab-log/controls/192.168.1.60_Input_6/meta/order 6
-/devices/ab-log/controls/192.168.1.60_Relay_7/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_7/meta/order 7
-/devices/ab-log/controls/192.168.1.60_Relay_7/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_8/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_8/meta/order 8
-/devices/ab-log/controls/192.168.1.60_Relay_8/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_9/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_9/meta/order 9
-/devices/ab-log/controls/192.168.1.60_Relay_9/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_10/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_10/meta/order 10
-/devices/ab-log/controls/192.168.1.60_Relay_10/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_11/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_11/meta/order 11
-/devices/ab-log/controls/192.168.1.60_Relay_11/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_12/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_12/meta/order 12
-/devices/ab-log/controls/192.168.1.60_Relay_12/on 0
-/devices/ab-log/controls/192.168.1.60_Relay_13/meta/type switch
-/devices/ab-log/controls/192.168.1.60_Relay_13/meta/order 13
-/devices/ab-log/controls/192.168.1.60_Relay_13/on 0
+    /devices/ab-log/meta/name ab-log.ru Controller
+    /devices/ab-log/controls/192.168.1.60_Input_0/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_0/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_0/meta/order 0
+    /devices/ab-log/controls/192.168.1.60_Input_1/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_1/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_1/meta/order 1
+    /devices/ab-log/controls/192.168.1.60_Input_2/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_2/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_2/meta/order 2
+    /devices/ab-log/controls/192.168.1.60_Input_3/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_3/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_3/meta/order 3
+    /devices/ab-log/controls/192.168.1.60_Input_4/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_4/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_4/meta/order 4
+    /devices/ab-log/controls/192.168.1.60_Input_5/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_5/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_5/meta/order 5
+    /devices/ab-log/controls/192.168.1.60_Input_6/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Input_6/meta/readonly 1
+    /devices/ab-log/controls/192.168.1.60_Input_6/meta/order 6
+    /devices/ab-log/controls/192.168.1.60_Relay_7/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_7/meta/order 7
+    /devices/ab-log/controls/192.168.1.60_Relay_7/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_8/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_8/meta/order 8
+    /devices/ab-log/controls/192.168.1.60_Relay_8/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_9/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_9/meta/order 9
+    /devices/ab-log/controls/192.168.1.60_Relay_9/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_10/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_10/meta/order 10
+    /devices/ab-log/controls/192.168.1.60_Relay_10/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_11/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_11/meta/order 11
+    /devices/ab-log/controls/192.168.1.60_Relay_11/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_12/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_12/meta/order 12
+    /devices/ab-log/controls/192.168.1.60_Relay_12/on 0
+    /devices/ab-log/controls/192.168.1.60_Relay_13/meta/type switch
+    /devices/ab-log/controls/192.168.1.60_Relay_13/meta/order 13
+    /devices/ab-log/controls/192.168.1.60_Relay_13/on 0
